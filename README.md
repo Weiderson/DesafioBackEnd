@@ -1,4 +1,4 @@
-# DesafioBackEndAPI - Desafio Desenvolvedor BackEnd - 2025
+# DesafioBackEndAPI - Desafio BackEnd - 2025
 
 ### AUTOR
 <ins>WEIDERSON MENDES QUEIROZ - ANALISTA DESENVOLVEDOR .NET</ins>
