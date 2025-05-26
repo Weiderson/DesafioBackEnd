@@ -24,7 +24,7 @@ namespace DesafioBackendAPI.Configure.Swagger
         {
             var info = new OpenApiInfo()
             {
-                Title = "Desafio Desenvolvedor Backend .NET (Weiderson Mendes Queiroz)",
+                Title = "Transação Bancária - .NET (Weiderson Mendes Queiroz)",
                 Version = description.ApiVersion.ToString()
             };
 

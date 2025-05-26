@@ -94,7 +94,6 @@ builder.Services.AddAuthentication(options =>
 
 
 var app = builder.Build();
-
 //Adicionar novos registros para as tabelas.
 //using (var scope = app.Services.CreateScope())
 //{
